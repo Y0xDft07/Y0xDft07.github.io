@@ -1,0 +1,56 @@
+[
+  {
+    "designation": "Magang Cyber Security (Pentester) - Basic/Junior",
+    "organization": "PT VINIX SEVEN AURUM",
+    "date": "Februari 2026 — Juni 2026",
+    "jobs": [
+      "Membantu pelaksanaan penetration testing pada aplikasi web dan jaringan sesuai arahan tim senior.",
+      "Melakukan proses vulnerability assessment untuk mengidentifikasi celah keamanan menggunakan tools seperti Nmap, Burp Suite, dan OWASP ZAP.",
+      "Mendokumentasikan temuan kerentanan serta menyusun laporan hasil pengujian secara sistematis dan jelas.",
+      "Melakukan analisis dasar terhadap potensi risiko keamanan dan memberikan rekomendasi perbaikan.",
+      "Berkoordinasi dengan tim IT dan developer untuk proses verifikasi serta retesting setelah perbaikan dilakukan.",
+      "Mempelajari dan menerapkan standar keamanan seperti OWASP Top 10 dalam proses pengujian."
+    ]
+  },
+  {
+    "designation": "Crew Store",
+    "organization": "PT Alfaria Trijaya Tbk",
+    "date": "Oktober 2024 — Januari 2025",
+    "jobs": [
+      "Menjalankan operasional toko harian meliputi pelayanan pelanggan, pengelolaan stok, serta penataan produk sesuai standar perusahaan.",
+      "Memastikan ketersediaan barang, kebersihan area kerja, serta kepatuhan terhadap prosedur operasional dan keamanan.",
+      "Berkoordinasi dengan tim untuk menjaga kualitas layanan dan efisiensi operasional toko."
+    ]
+  },
+  {
+    "designation": "Training Crew Store",
+    "organization": "PT Alfaria Trijaya Tbk",
+    "date": "Juli 2024 — September 2024",
+    "jobs": [
+      "Mengikuti pelatihan operasional toko mencakup pelayanan pelanggan, manajemen stok, kasir, dan standar kebersihan.",
+      "Mempelajari prosedur kerja, sistem internal, serta budaya pelayanan perusahaan.",
+      "Beradaptasi dengan lingkungan kerja ritel yang dinamis dan berorientasi pada kepuasan pelanggan."
+    ]
+  },
+  {
+    "designation": "Freelance Web Developer & Bug Bounty Researcher",
+    "organization": "Upwork",
+    "date": "Desember 2023 — Desember 2024",
+    "jobs": [
+      "Mengembangkan dan memelihara aplikasi web serta sistem manajemen berbasis teknologi web modern sesuai kebutuhan klien.",
+      "Menganalisis kebutuhan bisnis, menyusun spesifikasi fungsional, dan mengimplementasikan solusi perangkat lunak yang efisien.",
+      "Melakukan pengujian keamanan aplikasi, identifikasi kerentanan, serta peningkatan kualitas sistem melalui praktik bug bounty.",
+      "Melakukan riset teknologi untuk meningkatkan performa, skalabilitas, dan kompatibilitas lintas platform."
+    ]
+  },
+  {
+    "designation": "Pramuniaga",
+    "organization": "PT Lion Super Indo",
+    "date": "Agustus 2022 — April 2023",
+    "jobs": [
+      "Memberikan pelayanan pelanggan, menangani transaksi penjualan, serta memastikan ketersediaan dan penataan produk di area toko.",
+      "Mendukung operasional kasir dan pengelolaan stok sesuai prosedur perusahaan.",
+      "Berpartisipasi dalam peningkatan efisiensi operasional melalui pemahaman sistem penjualan dan proses bisnis ritel."
+    ]
+  }
+]

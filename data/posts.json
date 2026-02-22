@@ -1,0 +1,50 @@
+[
+  {
+    "id": "post1",
+    "title": "Mastering Visual Studio Code: Complete Guide for Efficient Web Development",
+    "url": "https://github.com/Y0xDft07/Belajar-VS-Code.git",
+    "image": "./assets/images/post/vscode.png",
+    "category": "Developer Tools",
+    "date_published": "Mei 21, 2024"
+  },
+  {
+    "id": "post2",
+    "title": "Bug Bounty Cheat Sheet: Practical Resources for Finding Web Vulnerabilities",
+    "url": "https://github.com/Y0xDft07/CheeatSheet-BugBounty.git",
+    "image": "./assets/images/post/bugbounty.png",
+    "category": "Cyber Security",
+    "date_published": "Mei 24, 2024"
+  },
+  {
+    "id": "post3",
+    "title": "Energy Consumption Prediction Using LSTM Neural Networks in Python",
+    "url": "https://github.com/Y0xDft07/Prediksi-Konsumsi-Energi-berbasis-ML.git",
+    "image": "./assets/images/post/lstm-energy.png",
+    "category": "Machine Learning",
+    "date_published": "Mei 27, 2024"
+  },
+  {
+    "id": "post4",
+    "title": "Fundamentals of Computer Networking: From OSI Model to IP Addressing",
+    "url": "https://github.com/Y0xDft07/Dasar-Dasar-Jaringan-.git",
+    "image": "./assets/images/post/network.png",
+    "category": "Networking",
+    "date_published": "Juli 21, 2024"
+  },
+  {
+    "id": "post5",
+    "title": "Elite Cybersecurity Training: Risk Management, Access Control, and Defense Strategies",
+    "url": "https://github.com/Y0xDft07/Latihan-Elit-Sec-Guardian.git",
+    "image": "./assets/images/post/cyber-training.png",
+    "category": "Cyber Security",
+    "date_published": "Juli 25, 2024"
+  },
+  {
+    "id": "post6",
+    "title": "LoJax UEFI Rootkit Analysis: Understanding Firmware-Level Persistent Malware",
+    "url": "https://github.com/Y0xDft07/LOJAX.git",
+    "image": "./assets/images/post/lojax.png",
+    "category": "Malware Analysis",
+    "date_published": "November 18, 2025"
+  }
+]
