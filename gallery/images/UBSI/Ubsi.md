@@ -1,1 +1,0 @@
-pembelajaran di ubsi
