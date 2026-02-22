@@ -448,7 +448,7 @@ function renderPosts(posts) {
   });
 }
 
-////// BuilderKit -> certificats Section Generation //////
+////// BuilderKit -> certificat Section Generation //////
 document.addEventListener("DOMContentLoaded", async () => {
   const courseLoadingMessage = document.getElementById("course-loading-message");
   if (courseLoadingMessage) courseLoadingMessage.style.display = "block";
@@ -463,7 +463,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // gunakan fallback array kosong agar tidak error
     renderTimelineItems(data.educations || [], "education-list");
-    renderTimelineItems(data.certificats || [], "certificats-list");
+    renderTimelineItems(data.certificat || [], "certificat-list");
     renderTimelineItems(data.workshops || [], "workshop-list");
 
   } catch (error) {
