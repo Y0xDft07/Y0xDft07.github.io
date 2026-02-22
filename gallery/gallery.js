@@ -14,7 +14,7 @@ let currentList = [];
 
 /* BACK BUTTON */
 document.getElementById("backBtn").onclick = () => {
-  window.location.href = "../index.html#certification";
+  window.location.href = "../index.html#certificat";
 };
 
 /* LOAD DATA */
