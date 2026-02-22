@@ -1,0 +1,261 @@
+[
+  {
+    "title": "ICS/Scada CyberSecurity",
+    "desc": "Protecting Industrial Systems, Processes, and Critical Infrastructure from Cyber Threats.",
+    "pdf": "images/RedTeamLeader/ics_scada_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/a75c41eb-a725-4834-b188-da837cbbff88",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": "https://example.com/credential1"
+  },
+  {
+    "title": "ATM Penetration Testing & Security Assessment",
+    "desc": "From ATM Architecture to Real-World Attacks and Defensive Controls",
+    "pdf": "images/RedTeamLeader/atm_penetration_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/eced6306-b938-475c-83a5-6718815da59e",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": "https://example.com/credential2"
+  },
+  {
+    "title": "CSAM Combat & Investigation Introduction",
+    "desc": "Advanced Techniques and Tools for Detection, Analysis, and Prevention of CSAM",
+    "pdf": "images/RedTeamLeader/csam_combat_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/2a412d31-a2e4-47ce-9709-14f711e1d53b",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": "https://example.com/credential3"
+  },
+  {
+    "title": "Cyber Security Architecture v1",
+    "desc": "Designing and implementing enterprise-grade security architectures.",
+    "pdf": "images/RedTeamLeader/cyber_security_ArchitectureV1_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/57769428-efac-4b1d-b34f-99e4195fe1da",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": "https://example.com/credential4"
+  },
+  {
+    "title": "Healthcare Hacking Introduction",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/RedTeamLeader/healthcare_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/08500f44-7c39-4ff0-8753-8f2ff474db8d",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Offersive gent Ai Course",
+    "desc": "Offensive and defensive security strategies Using AI Agent Scurity.",
+    "pdf": "images/RedTeamLeader/offensive_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/4cc576dd-934b-4289-a100-8a233fe07ef2",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "credentialUrl": ""
+  },
+
+
+  
+  {
+    "title": "Elite Bug Bouty with (Practice test only) to Xpert Tactics",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/BugBountyBegginerToExpert.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNod3@N-kF0tckhTCBzOxC7r6k5NXD1R_RLqjdRQSn3Ic8ahk8P2CZwuq0PhOR5hEjhFH_GQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Elite Cyber Sec Guardians (Practice Test's only) Pro",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/ElitCyberScurty.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNnH3@eMb_5CVbk2YD4UpZ9a9kPSwGJiaTV-CL-Aj7cZFv4n3XlGFlEHIl_DAvGnXfJldxPw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "level": "Pro",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Employee CyberScurity Awareness First Line of Defense",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/Employe_CyberScurty_Awarenees_First_Line_Of_Defense.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNod3@N-kF0tckhTCBzOxC7r6k5NXD1R_RLqjdRQSn3Ic8ahk8P2CZwuq0PhOR5hEjhFH_GQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Internet of Things (IOT) Online Course",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/InternetOfThink(IOT).pdf",
+    "courseUrl": "https://www.udemy.com/share/10axgi3@K2XshuMf1AjNJfSleKQtgglHnG-KYVgReiFefIwszLF5FcxaihepwLw3wFi6n2ZeWw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "ISO 27001 Information Security Employee Awarnees Training",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/ISO27001_Imformasi_Scurty_Employe_Awareness_Traning.pdf",
+    "courseUrl": "https://www.udemy.com/share/10bp5T3@clFBI1MGxHhQuS7NqfDBVyvfj12K_pedVgiXGXNonSN3lEvBuebjeAM_Ol-Ot_Wajw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Master Course in Cloud Scurity 3.0",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/MasterCourseInCloudScurty03.pdf",
+    "courseUrl": "https://www.udemy.com/share/108Qou3@aDmhN26FX1Rft3AERsCWi2CQh8jE0tJmTH8fu0x56iD0j2a3HLeRbhNryDp7TaJ3bw==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Mastering Network Scurity : Defening Against Cyber Threats",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/NetworkScurty_DefendingAgaintsCyberThreats.pdf",
+    "category": ["Course"],
+    "courseUrl": "https://www.udemy.com/share/1097163@xt59pVN95JBG3CRMPWMaBDqhFCh415XN6VjVArCoz5vSy6SYrJMJPBlZVnow3n6DTA==/",
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Master Ubuntu Linux : From Beginner to Advanced!",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/Ubuntu Linux Begginer To Advance.pdf",
+    "courseUrl": "https://www.udemy.com/share/10egZv3@NWxsSDUHVeIwSsqgUclXnyhlkwNjV3ASr9xgcB4pPmgxilBuEQSuUtZLB48yhYFkhQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Asembler Exploits (Practice Test Only) Binary Code Breakers",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/AssemblyExploits(PracticTest)BinaryCodeBreakes.pdf",
+    "courseUrl": "https://www.udemy.com/share/10eNon3@2tiLjBXOtqLZ9NsDqD7RwYnAYPnFb6v4zt3W-VccfuuLBoh8a6UMLnYZq84IalDQlA==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Master Course : CompTIA Project + (PK0-005)",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/Master_Course_CompTIA_Project+_PK0-005.pdf",
+    "courseUrl": "https://www.udemy.com/share/109peY3@aIJwgSWiYFNbrnpkQE9mzn5xuw8jT9OJir4IAPLa8duCifde3MA0qKu0bHjO_nmGTQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Network Mastery For Ethichal Hackers",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/NetworkMasteryForEthichalHacking.pdf",
+    "courseUrl": "https://www.udemy.com/share/10aiRa3@NQFCT_fKyjs2xZlCCrOH8DCgOMkXG4B4CgmYY1xLC7It6xYyRbgseAc3rhgJBKdzYA==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Real NMAP : Elite Network Scanning & Secon in 10 Hours | CNMP+",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/RealNMAP Networki Scanning_Recon_Exploit-Discovery_CNMP.pdf",
+    "courseUrl": "https://www.udemy.com/share/109hmA3@_e_VmOUDfjde4q4PoIvfl7_pULfTKY0er8acESCrykY4ql2kYYVUiNjoqyxD5gIe-Q==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Reverse Engineering: IDA For Beginners",
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "pdf": "images/Udemy/Reverse_Engginer_IDA_For_Beginer.pdf",
+    "courseUrl": "https://www.udemy.com/share/104RqY3@yx-hM8sP3xUINy3v0Pscj3J_iVVNZnidMBOnNLBex8jRVfcm2yOqqbQwZ0mvhUAYHQ==/",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Wireshark Ninja | Mastering Real Wireshark & Packet Trace Analaysis", 
+    "desc": "Offensive and defensive security strategies for medical environments.",
+    "courseUrl": "https://www.udemy.com/share/10eNoj3@lo6e6kszbRC53xEMxCwbfPAg-84Q53gOlFiCJJsOuxJFQNyzmv6muetkK2H4SChXRQ==/",
+    "pdf": "images/Udemy/WireShark&PacketAnalys.pdf",
+    "category": ["Course"],
+    "organization": "Udemy",
+    "credentialUrl": ""
+  },
+
+
+  
+  {
+    "title": "Fundamental Algoritma",
+    "desc": "Dasar logika pemrograman, struktur kontrol, dan pemecahan masalah secara sistematis.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Algoritma_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-algoritma/lesson/LESSON-16906-course-selesai",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Command Linux",
+    "desc": "Pengenalan perintah dasar Linux, navigasi sistem file, dan manajemen proses sederhana.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Command-Linux_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-command-linux/lesson/QUIZ-17988-kuis-chapter-5",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental CyberSecurity",
+    "desc": "Konsep dasar keamanan informasi, ancaman siber umum, serta praktik perlindungan sistem.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Cyber-Security_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-cyber-security/lesson/term-of-agreement-COURSE-18498-1",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Jaringan Komputer",
+    "desc": "Dasar komunikasi jaringan, model OSI/TCP-IP, alamat IP, dan protokol jaringan utama.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Jaringan-Komputer_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-jaringan-komputer/lesson/LESSON-15562-course-selesai",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Fundamental Pentesting",
+    "desc": "Pengenalan pengujian keamanan, metodologi dasar, serta teknik identifikasi kerentanan.",
+    "pdf": "images/CodingStudio/Certificate_Fundamental-Penetration-Testing_Yoga-arfiyanto.pdf",
+    "courseUrl": "https://member.codingstudio.id/kursus/fundamental-penetration-testing/lesson/reporting",
+    "category": ["Course"],
+    "organization": "Coding Studio",
+    "credentialUrl": ""
+  },
+  {
+    "title": "PCAP – Programming Essentials in Python",
+    "desc": "Dasar algoritma, Python, dan machine learning.",
+    "pdf": "images/UBSI/PCAP.pdf",
+    "courseUrl": "https://www.netacad.com/launch?id=65f191db-2efe-4d75-acae-2c7fc7a4da7a&tab=curriculum&view=2ecd9e81-daa1-54b5-98f0-c3b8afc8478a",
+    "category": ["Workshop", "Course"],
+    "organization": "Universitas BSI – OpenEDG & Cisco",
+    "credentialUrl": "https://example.com/credential6"
+  },
+  {
+    "title": "Social Media Marketing 101",
+    "desc": "Strategi pemasaran digital menggunakan media sosial.",
+    "pdf": "images/social_media_marketing.pdf",
+    "courseUrl": "",
+    "category": ["Workshop", "Official"],
+    "organization": "Mini Club Developer",
+    "credentialUrl": ""
+  },
+  {
+    "title": "Seminar Wajib Entrepreneur",
+    "desc": "Penguatan mindset kewirausahaan.",
+    "pdf": "images/UBSI/BEC.pdf",
+    "courseUrl": "",
+    "category": ["Workshop", "Official"],
+    "organization": "Universitas BSI",
+    "credentialUrl": ""
+  }
+]
