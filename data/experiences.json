@@ -4,12 +4,12 @@
     "organization": "PT VINIX SEVEN AURUM",
     "date": "Februari 2026 — Juni 2026",
     "jobs": [
-      "Membantu pelaksanaan penetration testing pada aplikasi web dan jaringan sesuai arahan tim senior.",
-      "Melakukan proses vulnerability assessment untuk mengidentifikasi celah keamanan menggunakan tools seperti Nmap, Burp Suite, dan OWASP ZAP.",
-      "Mendokumentasikan temuan kerentanan serta menyusun laporan hasil pengujian secara sistematis dan jelas.",
-      "Melakukan analisis dasar terhadap potensi risiko keamanan dan memberikan rekomendasi perbaikan.",
-      "Berkoordinasi dengan tim IT dan developer untuk proses verifikasi serta retesting setelah perbaikan dilakukan.",
-      "Mempelajari dan menerapkan standar keamanan seperti OWASP Top 10 dalam proses pengujian."
+      "Berpartisipasi dalam pelaksanaan penetration testing pada aplikasi web dan infrastruktur jaringan di bawah supervisi tim senior.",
+      "Melakukan vulnerability assessment untuk mengidentifikasi dan menganalisis celah keamanan menggunakan tools seperti Nmap, Burp Suite, dan OWASP ZAP.",
+      "Menyusun dokumentasi teknis serta laporan hasil pengujian yang sistematis, terstruktur, dan mudah dipahami oleh tim teknis maupun non-teknis.",
+      "Melakukan analisis risiko dasar terhadap kerentanan yang ditemukan serta memberikan rekomendasi mitigasi sesuai tingkat prioritas.",
+      "Berkoordinasi dengan tim IT dan developer dalam proses validasi temuan serta melakukan retesting untuk memastikan perbaikan telah efektif.",
+      "Menerapkan standar keamanan industri seperti OWASP Top 10 dalam proses identifikasi dan pengujian keamanan aplikasi."
     ]
   },
   {
@@ -17,32 +17,32 @@
     "organization": "PT Alfaria Trijaya Tbk",
     "date": "Oktober 2024 — Januari 2025",
     "jobs": [
-      "Menjalankan operasional toko harian meliputi pelayanan pelanggan, pengelolaan stok, serta penataan produk sesuai standar perusahaan.",
-      "Memastikan ketersediaan barang, kebersihan area kerja, serta kepatuhan terhadap prosedur operasional dan keamanan.",
-      "Berkoordinasi dengan tim untuk menjaga kualitas layanan dan efisiensi operasional toko."
+      "Menjalankan operasional toko harian meliputi pelayanan pelanggan, pengelolaan persediaan, dan penataan produk sesuai standar perusahaan.",
+      "Memastikan ketersediaan barang, kebersihan area kerja, serta kepatuhan terhadap prosedur operasional dan standar keamanan.",
+      "Berkolaborasi dengan tim untuk menjaga kualitas layanan, meningkatkan kepuasan pelanggan, dan mendukung efisiensi operasional toko."
     ]
   },
   {
     "designation": "Training Crew Store",
-    "organization": "PT Pesta Pora Abadi",
+    "organization": "PT Pesta Pora Abadi (Mie Gacoan)",
     "date": "Juli 2024 — September 2024",
     "jobs": [
-      "Mengikuti pelatihan operasional toko meliputi pelayanan pelanggan, kasir, dan pengelolaan stok.",
-      "Mempelajari SOP perusahaan, sistem inventory, dan tata display produk.",
-      "Melakukan simulasi transaksi dan pelayanan untuk kesiapan operasional.",
-      "Menerapkan standar kebersihan, keamanan, dan kenyamanan area kerja.",
-      "Beradaptasi dengan lingkungan ritel yang dinamis dan membangun komunikasi efektif dengan tim."
+      "Mengikuti program pelatihan operasional restoran meliputi pelayanan pelanggan, kasir (POS), dan manajemen persediaan bahan baku.",
+      "Mempelajari dan menerapkan SOP perusahaan terkait standar pelayanan, keamanan pangan, serta kebersihan area kerja.",
+      "Melakukan simulasi transaksi, penyajian produk, dan pelayanan pelanggan untuk memastikan kesiapan operasional.",
+      "Berpartisipasi dalam pengelolaan stok dan kontrol kualitas produk sesuai standar brand.",
+      "Mengembangkan kemampuan komunikasi, kerja tim, dan manajemen waktu dalam lingkungan kerja F&B yang dinamis dan cepat."
     ]
-  },
+  }
   {
     "designation": "Freelance Web Developer & Bug Bounty Researcher",
     "organization": "Upwork",
     "date": "Desember 2023 — Desember 2024",
     "jobs": [
-      "Mengembangkan dan memelihara aplikasi web serta sistem manajemen berbasis teknologi web modern sesuai kebutuhan klien.",
-      "Menganalisis kebutuhan bisnis, menyusun spesifikasi fungsional, dan mengimplementasikan solusi perangkat lunak yang efisien.",
-      "Melakukan pengujian keamanan aplikasi, identifikasi kerentanan, serta peningkatan kualitas sistem melalui praktik bug bounty.",
-      "Melakukan riset teknologi untuk meningkatkan performa, skalabilitas, dan kompatibilitas lintas platform."
+      "Mengembangkan, mengelola, dan memelihara aplikasi web berbasis teknologi modern sesuai kebutuhan dan spesifikasi klien.",
+      "Menganalisis kebutuhan bisnis, menyusun spesifikasi fungsional, serta mengimplementasikan solusi perangkat lunak yang efisien dan scalable.",
+      "Melakukan pengujian keamanan aplikasi, mengidentifikasi kerentanan, dan meningkatkan ketahanan sistem melalui praktik bug bounty.",
+      "Melakukan riset dan eksplorasi teknologi terbaru untuk meningkatkan performa, keamanan, dan kompatibilitas lintas platform."
     ]
   }
 ]
