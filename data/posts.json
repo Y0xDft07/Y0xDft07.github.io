@@ -51,7 +51,7 @@
     "id": "post6",
     "title": "Full Stack template for FastAPI, GO (chi), React 19 TypeScript, SCSS, Tanstack Query, Zustand, Nginx, Docker",
     "url": "https://github.com/Y0xDft07/fullstack-template.git",
-    "image": "./assets/images/post/dev.png",
+    "image": "./assets/images/post/fulldev.png",
     "category": ["Developer Tools","DevOps"],
     "date_published": "3 weeks ago"
   },
@@ -91,7 +91,7 @@
     "id": "post11",
     "title": "Cell tower logger and anomaly detector for Linux mobile devices. Monitors cellular connections and detects suspicious activity.",
     "url": "https://github.com/Y0xDft07/Tower-Hunter.git",
-    "image": "./assets/images/post/dev.png",
+    "image": "./assets/images/post/towerhunter.png",
     "category": ["Cyber Security","Privacy","Networking"],
     "date_published": "Jan 24, 2026"
   },
@@ -99,7 +99,7 @@
     "id": "post12",
     "title": "Hexora static analysis tool to detect malicious patterns in Python code and identify potential supply-chain attacks.",
     "url": "https://github.com/Y0xDft07/hexora.git",
-    "image": "./assets/images/post/dev.png",
+    "image": "./assets/images/post/hexora.png",
     "category": ["Cyber Security","Developer Tools"],
     "date_published": "Dec 28, 2025"
   },
