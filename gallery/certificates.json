@@ -69,6 +69,16 @@
     "level": "Pro",
     "credentialUrl": ""
   },
+  {
+    "title": "Intermediate Malware Analysis",
+    "desc": "Analisis malware tingkat menengah termasuk triase biner PE/ELF, unpacking payload, reverse engineering kode terobfusikasi, investigasi fileless malware, analisis process injection, decoding protokol C2, serta pengembangan deteksi menggunakan YARA, Sigma, dan threat intelligence STIX/MISP.",
+    "pdf": "images/RedTeamLeader/intermediate_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/c70481ef-a140-44f3-bd5b-6dd976476392",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
 
   {
     "title": "Elite Bug Bounty: Beginner to Expert (Practice Test)",
