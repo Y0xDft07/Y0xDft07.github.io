@@ -79,7 +79,6 @@
     "level": "Intermediate",
     "credentialUrl": ""
   },
-
   {
     "title": "Elite Bug Bounty: Beginner to Expert (Practice Test)",
     "desc": "Latihan identifikasi dan eksploitasi kerentanan aplikasi web seperti XSS, SQL Injection, dan CSRF menggunakan tools seperti Burp Suite dan OWASP ZAP dalam skenario bug bounty.",
