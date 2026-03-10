@@ -100,16 +100,6 @@
     "credentialUrl": ""
   },
   {
-    "title": "Employee Cybersecurity Awareness: First Line of Defense",
-    "desc": "Pelatihan kesadaran keamanan siber untuk mengenali ancaman seperti phishing, malware, ransomware, dan social engineering serta praktik keamanan dasar di lingkungan kerja.",
-    "pdf": "images/Udemy/Employe_CyberScurty_Awarenees_First_Line_Of_Defense.pdf",
-    "courseUrl": "https://www.udemy.com/share/107m9Q3@mFktb5_WLtRok_RI_7i665fuEuJnNMVlTM2j7K4KtXfB3R0k8ig_EAV2Te9CXMfr9A==/",
-    "category": ["Course"],
-    "organization": "Udemy",
-    "level": "Basic",
-    "credentialUrl": ""
-  },
-  {
     "title": "Internet of Things (IoT) Online Course",
     "desc": "Pengenalan konsep Internet of Things termasuk arsitektur perangkat, komunikasi sensor, protokol jaringan IoT, dan penerapan sistem perangkat terhubung.",
     "pdf": "images/Udemy/InternetOfThink(IOT).pdf",
