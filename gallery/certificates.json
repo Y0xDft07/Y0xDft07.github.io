@@ -80,6 +80,17 @@
     "credentialUrl": ""
   },
   {
+    "title": "Intelligence & Counterintelligence Introduction",
+    "desc": "Pengantar konsep intelijen dan kontra-intelijen dalam keamanan siber, mencakup doktrin operasi siber (CNE, CNA, CND / OCO, DCO), COMSEC dan OPSEC, model insider threat, serta pengaruh dan disinformasi dalam operasi informasi. Kursus ini menekankan tata kelola, batasan hukum dan etika, serta analisis studi kasus dari praktik lembaga intelijen seperti CIA, FBI, NSA, dan organisasi keamanan lainnya.",
+    "pdf": "images/RedTeamLeader/digital_forensi_certificate.pdf",
+    "courseUrl": "https://courses.redteamleaders.com/courses/a56478df-23c7-44d5-9443-e989735f0182",
+    "category": ["Course"],
+    "organization": "Red Team Leader",
+    "level": "Intermediate",
+    "credentialUrl": ""
+  },
+  
+  {
     "title": "Elite Bug Bounty: Beginner to Expert (Practice Test)",
     "desc": "Latihan identifikasi dan eksploitasi kerentanan aplikasi web seperti XSS, SQL Injection, dan CSRF menggunakan tools seperti Burp Suite dan OWASP ZAP dalam skenario bug bounty.",
     "pdf": "images/Udemy/BugBountyBegginerToExpert.pdf",
@@ -139,7 +150,17 @@
     "level": "Pro",
     "credentialUrl": ""
   },
-  
+
+  {
+    "title": "CompTIA Security+ Certification Training (SY0-701)",
+    "desc": "Pelatihan dasar keamanan siber yang mencakup prinsip keamanan jaringan, identifikasi ancaman dan kerentanan, manajemen risiko, kontrol akses dan IAM, kriptografi, arsitektur keamanan, serta respons insiden sesuai domain CompTIA Security+ SY0-701.",
+    "pdf": "images/Udemy/certificate-CC-2026-000068.pdf",
+    "courseUrl": "https://cyvitrix.com/courses/securityplus-training/",
+    "category": ["Course"],
+    "organization": "Cyvitrix Learning",
+    "level": "Basic",
+    "credentialUrl": ""
+  },
   {
     "title": "Fundamental Algoritma",
     "desc": "Dasar logika pemrograman, algoritma, struktur kontrol, dan metode pemecahan masalah secara sistematis dalam pengembangan perangkat lunak.",
