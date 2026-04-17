@@ -1,17 +1,4 @@
 [
- {
-    "designation": "Magang Cyber Security (Pentester)",
-    "organization": "PT VINIX SEVEN AURUM",
-    "date": "Februari 2026 — Juni 2026",
-    "jobs": [
-      "Berpartisipasi dalam pelaksanaan penetration testing pada aplikasi web dan infrastruktur jaringan di bawah supervisi tim senior.",
-      "Melakukan vulnerability assessment untuk mengidentifikasi dan menganalisis celah keamanan menggunakan tools seperti Nmap, Burp Suite, dan OWASP ZAP.",
-      "Menyusun dokumentasi teknis serta laporan hasil pengujian yang sistematis, terstruktur, dan mudah dipahami oleh tim teknis maupun non-teknis.",
-      "Melakukan analisis risiko dasar terhadap kerentanan yang ditemukan serta memberikan rekomendasi mitigasi sesuai tingkat prioritas.",
-      "Berkoordinasi dengan tim IT dan developer dalam proses validasi temuan serta melakukan retesting untuk memastikan perbaikan telah efektif.",
-      "Menerapkan standar keamanan industri seperti OWASP Top 10 dalam proses identifikasi dan pengujian keamanan aplikasi."
-    ]
-  },
   {
     "designation": "Crew Store",
     "organization": "PT Alfaria Trijaya Tbk",
